@@ -32,7 +32,7 @@ I believe in **continuous learning** and **exploring new technologies** like **R
 - **📱🛒 Mobile Shop Application** - Created with **.NET** 🖥️📱, offering **inventory management**, **billing**, and **customer tracking**.  
 - **⚛️🔄 Mobile Shop with CRUD & API** - Developed in **ReactJS** ⚛️🔗, integrating **RESTful APIs** for **dynamic data handling**.  
 - **🌐🛍️ Mobile Shop Web Application** - Built with **.NET Core MVC** 🏗️🌍, featuring **e-commerce functionalities**, **product management**, and **secure payments**.
--  
+   
 ---
 
 ### 🔥 Skills & Technologies
