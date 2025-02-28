@@ -1,6 +1,7 @@
 # 🚀 Vijay Otaradi - Web Developer & Data Scientist 💻
-- **"👑 Code like a king, debug like a warrior! ⚔️"**  
-- **"⚡ If it's possible, I’ll code it. If not, I’ll make it possible! 🚀"**  
+
+
+**"⚡ If it's possible, I’ll code it. If not, I’ll make it possible! 🚀"**  
 
 ### 👋 About Me  
 Hey there! I'm **Vijay Otaradi**, a passionate **Web Developer & Data Scientist** who loves building **scalable and high-performance web applications** using **ASP.NET Core** 🔥. I enjoy working with **backend systems, API development, and full-stack solutions** to create innovative projects. 🚀  
@@ -61,7 +62,7 @@ I believe in **continuous learning** and **exploring new technologies** like **R
 - **GitHub:** [Vijay11-08](https://github.com/Vijay11-08) 🖥️
 - **Email:** vijayotaradi11@gmail.com 📧
 
-🚀 _"Building the future, one line of code at a time!"_ 🔥
-
+🚀 _**"Building the future, one line of code at a time!"**_ 🔥
+**"👑 Code like a king, debug like a warrior! ⚔️"**  
 
 ---
