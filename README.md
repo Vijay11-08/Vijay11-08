@@ -35,9 +35,15 @@ I believe in **continuous learning** and **exploring new technologies** like **R
 
 ---
 
-### 📜 Certifications 🏅🎓  
+### 🏆 🚀 Achievements & Certifications 🏅🎓
 
-- ✅ **Infosys Springboard Internship 5.0** 🏢🎖️ *(Infosys)*  
+- 🏅 **Winner** - **Technical Puzzle Hunt (2024)** 🧩🎯  
+- 🏆 **Regional Finalist** - **New India Vibrant Hackathon 2023** 🚀💡  
+- 🎖️ **TechnoPlanet 2023** - **National Level Event** 🌍🏆  
+  - 🛠️ Participated in **WEB-BUILDER** 💻 and **RELAY-CODING** ⏳ competitions.  
+  - 🏅 **Certified Coordinator** for **TechnoPlanet 2023** 🏆📜  
+- 🏆 **TechnoPlanet 2024** - **National Level Event** 🌐🏅  
+  - 🏗️ Participated in **WEB-BUILDER** 🖥️ competition.   
 - ✅ **Hands-On AI/ML Workshop** 🤖📊 *(RK University, Jan 2025)*  
 - ✅ **Hands-On Workshop on Dynamic Web Applications** 💻🌐 *(RK University, Jan 2025)*  
 - ✅ **Hands-On Workshop on Web Application Development Using .NET Core** 🏗️🔧 *(RK University, Feb 2025)*  
