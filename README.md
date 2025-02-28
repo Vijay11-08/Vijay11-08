@@ -7,34 +7,6 @@ I believe in **continuous learning** and **exploring new technologies** like **R
 
 ---
 
-### 🏆 Achievements
-- 🏅 **Winner** - Technical Puzzle Hunt, RK University (2024)
-- 🏆 **Regional Finalist** - New India Vibrant Hackathon 2023
-- 🏅 **Certified** - Hands-On AI/ML Workshop, RK University
-- 🎖️ **Certified** - Dynamic Web Applications Workshop, RK University
-
----
-
-### 🔥 Skills & Technologies
-- **Languages:** Python 🐍, JavaScript ⚡, C# 🔵, PHP 🌐
-- **Frontend:** ReactJS ⚛️, HTML5 📄, CSS3 🎨, Bootstrap 🎭
-- **Backend:** Node.js 🚀, Express.js 🎯, Laravel 🏗️, ASP.NET Core 🔧
-- **Databases:** PostgreSQL 🛢️, MySQL 📊, Firebase 🔥
-- **Data Science:** Pandas 📊, NumPy 🔢, Matplotlib 📈
-- **Cloud & DevOps:** GitHub 🖥️, GitLab 🛠️, Docker 🐳
-
----
-
-### 💼 🚀 My Projects  
-
-- **🍽️ Online Food Restaurant** - Developed in **PHP & MySQL** 🍕🍔, featuring **order management**, **cart system**, and **user authentication**.  
-- **🏪📱 Canteen Ordering System** - Built using **Flutter** 📱🥪, allowing **digital food ordering** with a seamless UI.  
-- **📱🛒 Mobile Shop Application** - Created with **.NET** 🖥️📱, offering **inventory management**, **billing**, and **customer tracking**.  
-- **⚛️🔄 Mobile Shop with CRUD & API** - Developed in **ReactJS** ⚛️🔗, integrating **RESTful APIs** for **dynamic data handling**.  
-- **🌐🛍️ Mobile Shop Web Application** - Built with **.NET Core MVC** 🏗️🌍, featuring **e-commerce functionalities**, **product management**, and **secure payments**.  
-
----
-
 ### 🏆 🚀 Achievements & Certifications 🏅🎓
 
 - 🏅 **Winner** - **Technical Puzzle Hunt (2024)** 🧩🎯  
@@ -50,6 +22,35 @@ I believe in **continuous learning** and **exploring new technologies** like **R
 - ✅ **Flipkart GRiD 6.0 - Level 1.1 E-Commerce & Tech Quiz** 🛒📈 *(Flipkart)*  
 - ✅ **Introduction to Artificial Intelligence** 🧠🤖  
 - ✅ **Introduction to Deep Learning** 🏆📡  
+
+---
+
+### 💼 🚀 My Projects  
+
+- **🍽️ Online Food Restaurant** - Developed in **PHP & MySQL** 🍕🍔, featuring **order management**, **cart system**, and **user authentication**.  
+- **🏪📱 Canteen Ordering System** - Built using **Flutter** 📱🥪, allowing **digital food ordering** with a seamless UI.  
+- **📱🛒 Mobile Shop Application** - Created with **.NET** 🖥️📱, offering **inventory management**, **billing**, and **customer tracking**.  
+- **⚛️🔄 Mobile Shop with CRUD & API** - Developed in **ReactJS** ⚛️🔗, integrating **RESTful APIs** for **dynamic data handling**.  
+- **🌐🛍️ Mobile Shop Web Application** - Built with **.NET Core MVC** 🏗️🌍, featuring **e-commerce functionalities**, **product management**, and **secure payments**.
+-  
+---
+
+### 🔥 Skills & Technologies
+- **Languages:** Python 🐍, JavaScript ⚡, C# 🔵, PHP 🌐
+- **Frontend:** ReactJS ⚛️, HTML5 📄, CSS3 🎨, Bootstrap 🎭
+- **Backend:** Node.js 🚀, Express.js 🎯, Laravel 🏗️, ASP.NET Core 🔧
+- **Databases:** PostgreSQL 🛢️, MySQL 📊, Firebase 🔥
+- **Data Science:** Pandas 📊, NumPy 🔢, Matplotlib 📈
+- **Cloud & DevOps:** GitHub 🖥️, GitLab 🛠️, Docker 🐳
+
+
+---
+
+### 🏆 Achievements
+- 🏅 **Winner** - Technical Puzzle Hunt, RK University (2024)
+- 🏆 **Regional Finalist** - New India Vibrant Hackathon 2023
+- 🏅 **Certified** - Hands-On AI/ML Workshop, RK University
+- 🎖️ **Certified** - Dynamic Web Applications Workshop, RK University
 
 ---
 
