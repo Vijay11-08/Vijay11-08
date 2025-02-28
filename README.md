@@ -1,14 +1,15 @@
 # 🚀 Vijay Otaradi - Web Developer & Data Scientist 💻
 
-### 👋 About Me
-Hey there! I'm **Vijay Otaradi**, a passionate **Web Developer & Data Scientist** who loves working on **AI, Machine Learning, and Full-Stack Web Development**. I believe in continuous learning and exploring new technologies to build innovative solutions. ✨
+### 👋 About Me  
+Hey there! I'm **Vijay Otaradi**, a passionate **Web Developer & Data Scientist** who loves building **scalable and high-performance web applications** using **ASP.NET Core** 🔥. I enjoy working with **backend systems, API development, and full-stack solutions** to create innovative projects. 🚀  
+
+I believe in **continuous learning** and **exploring new technologies** like **ReactJS, PostgreSQL, and cloud computing** to stay ahead in the ever-evolving tech world. 💻✨  
 
 ---
 
 ### 🏆 Achievements
 - 🏅 **Winner** - Technical Puzzle Hunt, RK University (2024)
 - 🏆 **Regional Finalist** - New India Vibrant Hackathon 2023
-- 🎖️ **Certified** - Infosys Springboard Internship 5.0
 - 🏅 **Certified** - Hands-On AI/ML Workshop, RK University
 - 🎖️ **Certified** - Dynamic Web Applications Workshop, RK University
 
