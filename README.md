@@ -58,8 +58,7 @@
 ### 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vijay11-08&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Vijay's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay11-08&layout=compact&theme=tokyonight&border_radius=10" alt="Top Langs" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijay11-08&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 <p align="center">
@@ -67,6 +66,8 @@
 </p>
 
 ---
+
+### 🐍 Contribution Journey
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vijay11-08/Vijay11-08/output/github-contribution-grid-snake.svg" alt="snake" />
