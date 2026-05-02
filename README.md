@@ -69,9 +69,24 @@
 
 ### 🐍 Contribution Journey
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/Vijay11-08/Vijay11-08/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vijay11-08&show_icons=true&theme=tokyonight&count_private=true" alt="Detailed Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay11-08&layout=compact&theme=tokyonight" alt="Top Langs" height="180" />
+</div>
+
+<p align="center">
+  <a href="https://skyline.github.com/Vijay11-08/2026">
+    <img src="https://img.shields.io/badge/View_3D_Contribution_Skyline-00D1FF?style=for-the-badge&logo=github&logoColor=white" alt="Skyline" />
+  </a>
 </p>
+
+---
 
 <p align="center">
   <i>"Code is poetry in motion. Let's build something legendary."</i>
