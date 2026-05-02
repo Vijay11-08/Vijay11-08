@@ -62,6 +62,11 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vijay11-08&theme=tokyonight" alt="Profile Details" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Vijay11-08&theme=tokyonight" alt="Top Langs" height="180" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijay11-08&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </p>
 
@@ -71,13 +76,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Vijay11-08/Vijay11-08/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vijay11-08&show_icons=true&theme=tokyonight&count_private=true" alt="Detailed Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay11-08&layout=compact&theme=tokyonight" alt="Top Langs" height="180" />
 </div>
 
 <p align="center">
