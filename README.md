@@ -32,6 +32,19 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Vijay11-08&theme=tokyonight&no-bg=true&margin-w=4" alt="trophy" />
 </p>
 
+<details>
+  <summary align="center"><b>View Career Milestones & Certifications 🎖️</b></summary>
+  <br />
+  <ul>
+    <li>🥇 <b>Winner</b> – Technical Puzzle Hunt (RK University, 2024)</li>
+    <li>🚀 <b>Regional Finalist</b> – New India Vibrant Hackathon 2023</li>
+    <li>🎖️ <b>Certified Coordinator</b> – TechnoPlanet National Level Event</li>
+    <li>🧠 <b>Hands-On AI/ML</b> – Certified by RK University (2025)</li>
+    <li>💻 <b>Flipkart GRiD 6.0</b> – E-Commerce & Tech Quiz Participant</li>
+    <li>🛠️ <b>Workshop Graduate</b> – .NET Core & Dynamic Web Applications</li>
+  </ul>
+</details>
+
 ---
 
 ### 🚀 Featured Architectural Projects
@@ -46,7 +59,7 @@
 
 | 🛒 MobileShop Ecosystem (v2.0) | 🔐 Secure Auth Framework |
 | :--- | :--- |
-| **Full-Stack retail engine** deployed on Render. Features end-to-end checkout flows, secure payment integration, and a custom-built admin management dashboard. | **Hardened authentication layer** featuring RBAC (Role-Based Access Control), JWT-based sessions, and multi-layered server-side validation. |
+| **Full-Stack retail engine** deployed on Render. Features end-to-end checkout flows, secure payment integration, and a custom-built admin management dashboard. | **High-security authentication layer** featuring RBAC (Role-Based Access Control), JWT-based sessions, and multi-layered server-side validation. |
 | `Node.js` `Express` `React` `PostgreSQL` | `PHP` `MySQL` `Server Security` |
 | [Explore Repo ↗️](https://github.com/Vijay11-08/MobileShop-In-React) | [Explore Repo ↗️](https://github.com/Vijay11-08/AUTH_SYSTEM) |
 
@@ -74,7 +87,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijay11-08&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vijay11-08&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijay11-08&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="180" />
 </p>
 
 ---
@@ -94,9 +108,10 @@
 ---
 
 ### 📚 Continual Evolution
+- ⚡ **Daily Practice**: Mastering Star Patterns & Algorithmic Problem Solving in [All-In-One-Directory](https://github.com/Vijay11-08/All-In-One-Directory).
 - 🔭 **Current Focus**: Mastering System Architecture & High-Scalability Web Services.
 - 🌱 **Learning Path**: Deep-diving into Advanced Algorithms and Design Patterns.
-- ⚡ **Influences**: Inspired by [Fireship](https://www.youtube.com/c/Fireship), [freeCodeCamp](https://www.freecodecamp.org/), and the Open Source community.
+- 🤝 **Collaboration**: Open to innovative Full-Stack projects and AI/ML explorations.
 
 <p align="center">
   <i>"Code is poetry in motion. Let's build something legendary."</i>
