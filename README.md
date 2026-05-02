@@ -70,7 +70,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vijay11-08&theme=tokyonight" alt="Profile Details" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Vijay11-08&theme=tokyonight" alt="Top Langs" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vijay11-08&theme=tokyonight" alt="Top Langs" height="180" />
 </p>
 
 <p align="center">
